@@ -1,0 +1,20 @@
+html {
+    width: 100vw;
+    height: 100vh;
+    background: url('http://i.telegraph.co.uk/multimedia/archive/03589/Wellcome_Image_Awa_3589699k.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+
+#content {
+    width: 80vw;
+    height: 80vh;
+    margin: 10vh auto 0 auto;
+    border: 1px solid white;
+    color: beige;
+    text-align: center;
+}
+
+img {
+    max-width: 40vw;
+    min-width: 40vw;
+}
